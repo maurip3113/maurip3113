@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+  - 🔎 My name is Mauricio Pintos and i’m currently studying computer science.
+  - 📖 The language that i know the most is C.
+  - 🏫 I’m currently studying in UNC(Universidad Nacional de Córdoba) at FaMAF(Facultad de Matemática, Astronomía, Física y Computación).
+<!--- ⚙️ -->
+  - 👀 I’m currently learning SQL programming.
+  - 📥 My current email is: mauripintos123@gmail.com
+  - https://www.linkedin.com/in/mauricio-p-3494b2233/
 
 <!--
 **maurip3113/maurip3113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
